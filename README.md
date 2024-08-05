@@ -1,12 +1,27 @@
-# Getting Started with Create React App
+# WeatherApp => Using FETCH 
+It's a very simple weather app that fetches data from a Weather API and displays the current weather conditions for a given city. 
+The code is organized into logical sections, and the use of styled components makes the JSX easy to read.
+There is an AnimatedBackground component with multiple linear gradients that fades in the background and scales up to it's full size. 
+
+I'm using React, Typescript, Framer Motion and a free API from openweathermap.org 
+
+<div style="display: flex; gap: 10px;">
+    <img src="./src/screenshots/Screenshot_MobileView_localhost.jpeg" alt="Mobile View of Application" height="200">
+    <img src="./src/screenshots/Screenshot_DesktopView_localhost.jpeg" alt="Desktop View of Application" width="300">
+</div>
+
+
+##
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+#### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -14,12 +29,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `npm test`
+#### `npm test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+#### `npm run build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -29,7 +44,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+#### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
