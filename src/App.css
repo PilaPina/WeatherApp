@@ -14,36 +14,10 @@ body {
 /* Color Gradient Object for the background animation */
 :root {
     --color-1: linear-gradient(110deg, #3b048e, #4e12a8, #0a75bd, #0398fb, #00e5ff, #c1ef6c, #ffea00, #fdc200);
-    --color-2: linear-gradient(110deg, #400499, #4f13a9, #0a76be, #09F, #00e5ff, #c1ef6c, #ffea02, #fec805);
-    --color-3: linear-gradient(110deg, #3d0490, #5014aa, #0a77bf, #0398fb, #00e5ff, #c1ef6c, #ffea05, #ffc905);
-    --color-4: linear-gradient(110deg, #400499, #5115ab, #0a78c0, #09F, #00e5ff, #c1ef6c, #ffea07, #fec906);
     --color-5: linear-gradient(110deg, #3f0492, #5216ac, #0a79c1, #0398fb, #00e5ff, #c1ef6c, #ffea10, #fbc706);
-    --color-6: linear-gradient(110deg, #400499, #5317ad, #0a7ac2, #09F, #05e3fc, #c1ef6c, #ffea12, #fdc706);
-    --color-7: linear-gradient(110deg, #4104a4, #5418ae, #0a7bc3, #0398fb, #00e5ff, #c1ef6c, #ffea15, #ffb31a);
-    --color-8: linear-gradient(110deg, #400499, #5519af, #0a7cc4, #09F, #00e5ff, #c1ef6c, #ffea17, #faaa0b);
-    --color-9: linear-gradient(110deg, #3b048e, #561ab0, #0a7dc5, #0398fb, #05e3fc, #c1ef6c, #ffea20, #fcb21e);
     --color-10: linear-gradient(110deg, #400499, #571bb1, #0a7ec6, #09F, #00e5ff, #c1ef6c, #ffea22, #fcc709);
-    --color-11: linear-gradient(110deg, #3b048e, #581cb2, #0a7fc7, #0398fb, #00e5ff, #c1ef6c, #ffea25, #fcc709);
-    --color-12: linear-gradient(110deg, #3b048e, #591db3, #0a80c8, #09F, #00e5ff, #c1ef6c, #ffea27, #fcc709);
-    --color-13: linear-gradient(110deg, #3b048e, #5a1eb4, #0a81c9, #09F, #00e5ff, #c1ef6c, #ffea30, #fcc709);
-    --color-14: linear-gradient(110deg, #400499, #5b1fb5, #0a82ca, #09F, #00e5ff, #c1ef6c, #ffea32, #fcc709);
     --color-15: linear-gradient(110deg, #3b048e, #5c20b6, #0a83cb, #09F, #00e5ff, #c1ef6c, #ffea35, #fcc709);
-    --color-16: linear-gradient(110deg, #3b048e, #5d21b7, #0a84cc, #09F, #00e5ff, #c1ef6c, #ffea37, #fcc709);
-    --color-17: linear-gradient(110deg, #400499, #5e22b8, #0a85cd, #09F, #00e5ff, #c1ef6c, #ffea40, #fcc709);
-    --color-18: linear-gradient(110deg, #400499, #5f23b9, #0a86ce, #0398fb, #00e5ff, #c1ef6c, #ffea42, #fcc709);
-    --color-19: linear-gradient(110deg, #400499, #6024ba, #0a87cf, #09F, #05e3fc, #c1ef6c, #ffea10, #fcc709);
     --color-20: linear-gradient(110deg, #3b048e, #6125bb, #0a88d0, #09F, #00e5ff, #c1ef6c, #ffea47, #fcc709);
-    --color-21: linear-gradient(110deg, #400499, #6226bc, #0a89d1, #0398fb, #05e3fc, #c1ef6c, #ffea50, #fcc709);
-    --color-22: linear-gradient(110deg, #400499, #6327bd, #0a8ad2, #09F, #00e5ff, #c1ef6c, #ffea52, #fcc709);
-    --color-23: linear-gradient(110deg, #400499, #6428be, #0a8bd3, #09F, #00e5ff, #c1ef6c, #ffea55, #fcc709);
-    --color-24: linear-gradient(110deg, #400499, #6529bf, #0a8cd4, #0398fb, #00e5ff, #c1ef6c, #ffea57, #fcc709);
-    --color-25: linear-gradient(110deg, #5306b6, #662abc, #0a8dd5, #09F, #05e3fc, #c1ef6c, #ffea60, #fcc709);
-    --color-26: linear-gradient(110deg, #5406c7, #672bcd, #0a8ed6, #0398fb, #00e5ff, #c1ef6c, #ffea62, #fcc709);
-    --color-27: linear-gradient(110deg, #5c05ea, #682ccf, #0a8fd7, #09F, #00e5ff, #c1ef6c, #ffea65, #fcc709);
-    --color-28: linear-gradient(110deg, #5606e9, #692dd0, #0a90d8, #09F, #05e3fc, #c1ef6c, #ffea67, #fcc709);
-    --color-29: linear-gradient(110deg, #5306b6, #6a2ed1, #0a91d9, #09F, #00e5ff, #c1ef6c, #ffea70, #fcc709);
-    --color-30: linear-gradient(110deg, #5306b6, #6b2fd2, #0a92da, #09F, #00e5ff, #c1ef6c, #ffea72, #fcc709);
-    --color-31: linear-gradient(110deg, #5107b3, #5e18c7, #0a75bd, #09F, #00e5ff, #c1ef6c, #ffea00, #fcc709);
 }
 
 @keyframes colorShift {
