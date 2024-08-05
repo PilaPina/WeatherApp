@@ -1,5 +1,5 @@
 # WeatherApp => Using FETCH 
-It's a very simple weather app that fetches data from a Weather API and displays the current weather conditions for a given city. 
+It's a very simple weather app that fetches data from a Weather API and displays the current weather conditions for a given city. Made Mobile First. 
 The code is organized into logical sections, and the use of styled components makes the JSX easy to read.
 There is an AnimatedBackground component with multiple linear gradients that fades in the background and scales up to it's full size. 
 
